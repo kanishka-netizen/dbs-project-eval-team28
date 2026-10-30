@@ -204,7 +204,6 @@ const QUESTIONS: ExamQuestion[] = [
       'Statements II, III and IV are true. II follows by decomposition. For III, W → Y lets XW determine XY, and XY → Z then gives XW → Z. IV is transitivity. I is false because XY → ZW does not imply X alone determines ZW.',
     source: 'https://gateoverflow.in/422808/gate-cse-2024-set-1-question-34',
   },
-,
   {
     id: 12,
     topic: 'Functional Dependencies',
